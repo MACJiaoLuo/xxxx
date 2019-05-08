@@ -1418,8 +1418,8 @@ DOMAIN-SUFFIX,line-scdn.net,PROXY
 DOMAIN-SUFFIX,nhncorp.jp,PROXY
 
 // 无忧行
-DOMAIN-SUFFIX,jegotrip.com.cn,anynode gia1
-DOMAIN-SUFFIX,wannos.127.net,anynode gia1
+DOMAIN-SUFFIX,jegotrip.com.cn,anynode 2
+DOMAIN-SUFFIX,wannos.127.net,anynode 2
 
 // Top blocked sites
 DOMAIN-SUFFIX,2o7.net,PROXY
