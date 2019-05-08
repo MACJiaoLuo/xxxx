@@ -201,7 +201,6 @@ DOMAIN-SUFFIX,turn.com,REJECT
 DOMAIN-SUFFIX,uberads.com,REJECT
 DOMAIN-SUFFIX,udrig.com,REJECT
 DOMAIN-SUFFIX,umeng.co,REJECT
-DOMAIN-SUFFIX,umeng.com,REJECT
 DOMAIN-SUFFIX,umengcloud.com,REJECT
 DOMAIN-SUFFIX,upcpi.com,REJECT
 DOMAIN-SUFFIX,urbanairship.com,REJECT
@@ -1298,6 +1297,7 @@ DOMAIN-SUFFIX,appstore.com,DIRECT
 DOMAIN-SUFFIX,cdn-apple.com,⚠️Apple 服务加速(不明白就选DIRECT)
 DOMAIN-SUFFIX,crashlytics.com,DIRECT
 DOMAIN-SUFFIX,icloud.com,DIRECT
+DOMAIN-SUFFIX,icloud-content.com,⚠️Apple 服务加速(不明白就选DIRECT)
 DOMAIN-SUFFIX,me.com,DIRECT
 DOMAIN-SUFFIX,mzstatic.com,DIRECT
 IP-CIDR,17.0.0.0/8,DIRECT
